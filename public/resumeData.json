@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Yash Bhole",
+    "occupation": "I am a student learning to become a fullstack developer",
+    "description": "Tech enthusiast , love the way computers and technology evole each day",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "bio": "My name is Yash, I'm a learning Full Stack ReactJS development. ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "yashbhole@gmail.com",
+    "phone": "+44 000 000",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Andheri(w)",
+      "city": "Mumbai",
+      "state": "India",
+      "zip": "400058"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/yash.bhole.7",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
-        "className": "fa fa-linkedin"
+        "url": "",
+        "className": ""
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.facebook.com/yash.bhole.7",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/S1ush",
         "className": "fa fa-github"
       }
     ]
@@ -43,42 +43,42 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "school": "University of Mumbai",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "fall 2021",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "ConnectRoots",
+        "title": "Web Developer",
+        "years": "JUN 2020 - August 2020",
+        "description": "Building ConnectRoots.in, a gambling website."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "20%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "SCSS",
+        "level": "70%"
       },
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "Angular",
+        "level": "50%"
       },
       {
         "name": "Figma && Adobe XD",
-        "level": "55%"
+        "level": "40%"
       },
       {
         "name": "HTML5",
@@ -86,42 +86,37 @@
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "60%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Movie Booking platform in MEAN",
+        "category": "built with MEAN (MongoDB, ExpressJS, Angular, NodeJS)",
+        "image": "movie-ticket.jpeg",
+        "url": ""
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "HRM system with data analysis",
+        "category": "built with MERN (Serverlet, HTML5, CSS3,)",
+        "image": "hrm.jpg",
+        "url": ""
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Vidisha(College fest) website",
+        "category": "Website designed for promoting Collegefest (HTML5,SCSS,LESS,JQuery)",
+        "image": "Vlogo.png",
+        "url": "https://s1ush.github.io/Vidisha-2.0/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Colorization of black and white images",
+        "category": "Machine learning ",
+        "image": "b&w.png",
+        "url": ""
       }
+      
     ]
   },
   "testimonials": {
